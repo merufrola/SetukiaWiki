@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hello
+title: せつきあwiki(β)にようこそ
 ---
 
 ## このページについて
