@@ -7,5 +7,5 @@
 正直全部覚えている自信がありません。こういう設定あったと思う、という記憶をお持ちの方を探しています。
 ### 直接編集できそうな方
 GitHubアカウントを引っ提げて[@zakuro_ganet](https://twitter.com/zakuro_ganet)まで。
-###編集はできねえけど記憶はあるよという方
+### 編集はできねえけど記憶はあるよという方
 [@zakuro_ganet](https://twitter.com/zakuro_ganet)まで情報提供をお願いします。
