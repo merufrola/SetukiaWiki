@@ -8,4 +8,8 @@
 ### 直接編集できそうな方
 GitHubアカウントを引っ提げて[@zakuro_ganet](https://twitter.com/zakuro_ganet)まで。
 ### 編集はできねえけど記憶はあるよという方
+<<<<<<< HEAD
 [@zakuro_ganet](https://twitter.com/zakuro_ganet)まで情報提供をお願いします。
+=======
+[@zakuro_ganet](https://twitter.com/zakuro_ganet)まで情報提供をお願いします。
+>>>>>>> e7ff9dcdbdd396b87b84548c28f6eed0931bac77
