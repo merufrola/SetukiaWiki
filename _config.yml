@@ -2,7 +2,7 @@ title: せつきあwiki
 description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
 show_downloads: true
 git_branch: master
-logo_url: SetukiaWiki/logo.png
+logo_url: https://github.com/merufrola/SetukiaWiki/git/logo.png
 google_analytics:
 theme: 
 wiki_folder: wiki
