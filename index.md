@@ -28,7 +28,3 @@ title: せつきあwiki(β)にようこそ
 GitHubアカウントを引っ提げて[@zakuro_ganet](https://twitter.com/zakuro_ganet)まで。
 ### 編集はできねえけど記憶はあるよという方
 [@zakuro_ganet](https://twitter.com/zakuro_ganet)まで情報提供をお願いします。
-<<<<<<< HEAD
-=======
-
->>>>>>> 15d7ee78881138e95e29201fe47f1b95aa1cd92f
