@@ -2,7 +2,7 @@ title: せつきあwiki
 description: 刹キア関係の設定とかまとめるページ
 show_downloads: true
 git_branch: master
-logo_url: https://raw.githubusercontent.com/merufrola/SetukiaWiki/master/logo%20(1).png
+logo_url: https://raw.githubusercontent.com/merufrola/SetukiaWiki/master/logo.png
 google_analytics:
 theme: 
 wiki_folder: wiki
@@ -12,6 +12,7 @@ google_cse_token:
 custom_head: false
 custom_sidebar: false
 custom_footer: false
+inc_after_header: "my_sidebar_file.html"
 gems:
   - jekyll-sitemap
   - jekyll-mentions
