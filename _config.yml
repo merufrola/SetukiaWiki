@@ -6,7 +6,7 @@ logo_url: https://raw.githubusercontent.com/merufrola/SetukiaWiki/master/images/
 google_analytics:
 theme: 
 wiki_folder: wiki
-use_github_wiki: false
+use_github_wiki: true
 use_prose_io: true
 google_cse_token: 
 custom_head: false
