@@ -9,6 +9,6 @@ title: 世界史・作品時系列
 <iframe width="100%" height="500px" seamless frameborder='0' src="https://the-timeline.jp/timelines/1HdNbjc0stqZap4YImnLJlrfi2U4f6JhB7KKQLesO2sI?end=20820101102832&start=17741030095829"></iframe>
 
 <br>
-※RPG世界線(銀の魔導師)について
+<b>※RPG世界線(銀の魔導師)について</b><br>
 完全な劇中劇にしてしまうか、実在した魔導師の話にするか、現在検討中<br>
 国の違い、魔術の発生過程の特殊さがあり、他作品との両立が難しいため
