@@ -201,7 +201,7 @@ Central Processing Regionの略。Central Processing Unit(CPU)がコンピュー
 <dt>第三世代</dt>
 <dd>ハーフエレクトラとして成功。</dd>
 <dt>第四世代</dt>
-<dd>人工エレクトラその２。失敗。<dd>
+<dd>人工エレクトラその２。失敗。</dd>
 </dl>
 <br>
 
