@@ -23,5 +23,5 @@ title: 世界線一覧
 <br>
 <h3>未来</h3>
 <a href="https://merufrola.github.io/SetukiaWiki/wiki/mirai_config_1">設定集１</a><br>
-<a href="https://merufrola.github.io/SetukiaWiki/wiki/mirai_config_2">設定集(登場人物編)</a>
+<a href="https://merufrola.github.io/SetukiaWiki/wiki/mirai_config_2.md">設定集(登場人物編)</a>
 
