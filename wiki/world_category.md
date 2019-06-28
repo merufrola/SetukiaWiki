@@ -12,7 +12,7 @@ title: 世界線一覧
 <a href="">時代(工事中)</a>
 <br>
 <h3>大正</h3>
-<a href="https://merufrola.github.io/SetukiaWiki/wiki/taisho_config.md">設定集</a>
+<a href="https://merufrola.github.io/SetukiaWiki/wiki/taisho_config">設定集</a>
 <br>
 <h3>軍事</h3>
 <a href="">軍事本編(工事中)</a><br>
