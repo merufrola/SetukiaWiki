@@ -138,7 +138,7 @@ title: 幻覚まとめ
 <br>
 
 > アイドルやってるにょたゆりせつきあ(LINEログ)<br>
-<iframe src="LINE/LINE_IDLE.html" width="320px" height="480px">
+<iframe src="LINE/LINE_IDLE.html" width="360px" height="480px">
 </iframe>
 
 
