@@ -11,6 +11,9 @@ title: 世界線一覧
 <h3>時代</h3>
 <a href="">時代(工事中)</a>
 <br>
+<h3>RPG</h3>
+<a href="">工事中</a>
+<br>
 <h3>大正</h3>
 <a href="https://merufrola.github.io/SetukiaWiki/wiki/taisho_config">設定集</a>
 <br>
